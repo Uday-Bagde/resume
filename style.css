@@ -9,18 +9,19 @@ h1{
     /* width: 10%; */
     padding-top: 80px;
     margin-top: 20px auto 0px auto;
-    font-size: 5.625rem;
+    font-size: 562.5px;
     font-family: 'Sacramento', cursive;
     color: #66bfbf;
 }
 h2{
     margin-bottom: 0px;
     font-family: 'Montserrat', sans-serif;
-    font-size:2.5rem;
+    font-size:40px;
 }
 h3{
 
     font-family: 'Montserrat', sans-serif;
+    font-size:24px;
 }
 div{
     margin:0;
@@ -85,6 +86,7 @@ div{
 p{
     color: black;
     font-size:medium;
+    font-size:16px;
 }
 hr{
     border: dotted #D75281 6px;
